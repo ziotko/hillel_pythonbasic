@@ -1,0 +1,8 @@
+print("Escape sequences\n")
+print("\\a Bell (alert)")
+print("\\b Backspace")
+print("\\n New line")
+print("Horizontal tab")
+print("\\\\ Backslash \\")
+print("\\\"Double quotation mark\"")
+print("\\' Single quotation mark '")
